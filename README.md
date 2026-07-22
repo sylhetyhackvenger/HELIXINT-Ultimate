@@ -1,11 +1,6 @@
-HELIXINT Ultimate Reconnaissance Suite
+# HELIXINT Ultimate IP Reconnaissance Suite - Enterprise External Attack Surface Management Platform
 
-Enterprise External Attack Surface Management Platform
 
-https://img.shields.io/badge/License-MIT-yellow.svg
-https://img.shields.io/badge/python-3.8+-blue.svg
-https://img.shields.io/badge/Security-Advanced-red.svg
-https://img.shields.io/badge/Version-7.0.0-brightgreen.svg
 
 ---
 
