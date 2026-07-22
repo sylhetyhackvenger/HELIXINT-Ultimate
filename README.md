@@ -448,19 +448,8 @@ Attribution
 
 · Built with ❤️ by security professionals for security professionals
 · Author: SYLHETYHACKVENGER (THE-ERROR808)
-· Organization: HELIXINT Technologies
-· Copyright: © 2025 HELIXINT Technologies
 
 ---
-
-🏆 Recognition
-
-Industry Recognition
-
-· Cyber Defense Magazine - "Best Reconnaissance Tool" (2024)
-· InfoSec Awards - "Innovation in Attack Surface Management" (2024)
-· Security Excellence Awards - "Best Security Testing Tool" (2023)
-
 Enterprise Adoption
 
 HELIXINT is trusted by:
@@ -474,7 +463,7 @@ HELIXINT is trusted by:
 
 📈 Future Roadmap
 
-Upcoming Features (Q2 2024)
+Upcoming Features 
 
 · Machine Learning Integration - Automated threat prediction
 · Zero-Trust Assessment - Continuous verification framework
